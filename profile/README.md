@@ -1,6 +1,6 @@
 # NovaBrains.ai
 
-[![NovaBrains.ai](https://novabrains.ai/static/media/homepage-hero.b88309cbe588ad9ed47c.png)
+![NovaBrains.ai](https://novabrains.ai/static/media/homepage-hero.b88309cbe588ad9ed47c.png)
 
 Welcome to **NovaBrains.ai** – Innovating Education with AI. Our mission is to revolutionize digital education with AI-powered tools that simplify the creation and management of interactive courses for educators and learners alike.
 
@@ -33,21 +33,9 @@ To learn more about our services or to get started with our platform, visit our 
 
 Have any questions or need further information? Feel free to reach out to us:
 
-- **Email:** info@novabrains.ai
-- **Phone:** +1-234-567-890
-- **Address:** 123 AI Drive, Charlotte, NC
+- **Email:** hello@novabrains.ai
+- **Based in:** Charlotte, NC
 
-### Follow Us
-
-Stay updated with our latest news and updates:
-
-- [LinkedIn](https://www.linkedin.com/company/novabrains-ai)
-- [Twitter](https://twitter.com/novabrains_ai)
-- [Facebook](https://www.facebook.com/novabrains.ai)
-
-## Contributing
-
-We welcome contributions to our projects. For more details, check out our [contributing guidelines](CONTRIBUTING.md).
 
 ## License
 
