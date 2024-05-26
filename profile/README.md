@@ -1,7 +1,5 @@
 # NovaBrains.ai
 
-![NovaBrains.ai](https://novabrains.ai/static/media/homepage-hero.b88309cbe588ad9ed47c.png)
-
 Welcome to **NovaBrains.ai** – Innovating Education with AI. Our mission is to revolutionize digital education with AI-powered tools that simplify the creation and management of interactive courses for educators and learners alike.
 
 ## About Us
